@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/mrinmoy96/leetCode-solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrinmoy96/leetCode-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/mrinmoy96/leetCode-solving/tree/master/0908-middle-of-the-linked-list) |
@@ -23,4 +24,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mrinmoy96/leetCode-solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrinmoy96/leetCode-solving/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
