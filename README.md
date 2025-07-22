@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/0151-reverse-words-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
