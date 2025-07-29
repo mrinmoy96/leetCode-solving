@@ -39,6 +39,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mrinmoy96/leetCode-solving/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mrinmoy96/leetCode-solving/tree/master/0070-climbing-stairs) |
+| [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mrinmoy96/leetCode-solving/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
