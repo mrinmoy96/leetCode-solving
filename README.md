@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mrinmoy96/leetCode-solving/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/mrinmoy96/leetCode-solving/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/mrinmoy96/leetCode-solving/tree/master/0070-climbing-stairs) |
 | [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/mrinmoy96/leetCode-solving/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
