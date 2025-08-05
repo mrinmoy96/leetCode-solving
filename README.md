@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0027-remove-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mrinmoy96/leetCode-solving/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
