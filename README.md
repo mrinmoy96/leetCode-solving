@@ -33,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/mrinmoy96/leetCode-solving/tree/master/0048-rotate-image) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mrinmoy96/leetCode-solving/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/mrinmoy96/leetCode-solving/tree/master/0070-climbing-stairs) |
 | [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/mrinmoy96/leetCode-solving/tree/master/2050-count-good-numbers) |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mrinmoy96/leetCode-solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
