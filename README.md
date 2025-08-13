@@ -25,11 +25,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mrinmoy96/leetCode-solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrinmoy96/leetCode-solving/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0027-remove-element) |
