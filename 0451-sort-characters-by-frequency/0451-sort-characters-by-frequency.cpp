@@ -1,26 +1,25 @@
-#include<map>
-#include<vector>
 class Solution {
 public:
     string frequencySort(string s) {
-        vector<pair<int, char>>v;
-        map<char, int>mp;
-        int n=s.length();
-        
-        for(int i=0; i<n; i++){
-            mp[s[i]]++;
+        unordered_map<char, int> freq;
+        for (char c : s) {
+            freq[c]++;
         }
-        for(auto i:mp){
-            v.push_back({i.second , i.first});
+
+        // Step 2: Create a vector of pairs (char, frequency)
+        vector<pair<char, int>> freqVec(freq.begin(), freq.end());
+
+        // Step 3: Sort by frequency in decreasing order
+        sort(freqVec.begin(), freqVec.end(), [](auto &a, auto &b) {
+            return a.second > b.second; // higher frequency first
+        });
+
+        // Step 4: Build the result string
+        string result;
+        for (auto &p : freqVec) {
+            result.append(p.second, p.first); // repeat character
         }
-        sort(v.rbegin(), v.rend());
-        string ans;
-        
-        for(auto i:v){
-            for(int j=0; j<i.first; j++){
-                ans+=i.second;
-            }
-        }
-        return ans;
+
+        return result;
     }
 };
