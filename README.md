@@ -37,6 +37,7 @@
 | [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/mrinmoy96/leetCode-solving/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mrinmoy96/leetCode-solving/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
