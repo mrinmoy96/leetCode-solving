@@ -38,6 +38,7 @@
 | [0027-remove-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/mrinmoy96/leetCode-solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/mrinmoy96/leetCode-solving/tree/master/0078-subsets) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -124,4 +125,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mrinmoy96/leetCode-solving/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mrinmoy96/leetCode-solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
