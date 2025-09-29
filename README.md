@@ -39,11 +39,13 @@
 | [0048-rotate-image](https://github.com/mrinmoy96/leetCode-solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/mrinmoy96/leetCode-solving/tree/master/0078-subsets) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -112,6 +114,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,4 +137,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mrinmoy96/leetCode-solving/tree/master/0078-subsets) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
