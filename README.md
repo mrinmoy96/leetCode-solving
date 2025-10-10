@@ -40,6 +40,7 @@
 | [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/mrinmoy96/leetCode-solving/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/mrinmoy96/leetCode-solving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
