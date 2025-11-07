@@ -12,6 +12,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mrinmoy96/leetCode-solving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mrinmoy96/leetCode-solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mrinmoy96/leetCode-solving/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/mrinmoy96/leetCode-solving/tree/master/2050-count-good-numbers) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mrinmoy96/leetCode-solving/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mrinmoy96/leetCode-solving/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mrinmoy96/leetCode-solving/tree/master/0070-climbing-stairs) |
 | [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/mrinmoy96/leetCode-solving/tree/master/2050-count-good-numbers) |
