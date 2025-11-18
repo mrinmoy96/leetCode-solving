@@ -34,6 +34,7 @@
 | [0141-linked-list-cycle](https://github.com/mrinmoy96/leetCode-solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrinmoy96/leetCode-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/mrinmoy96/leetCode-solving/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0078-subsets](https://github.com/mrinmoy96/leetCode-solving/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mrinmoy96/leetCode-solving/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/mrinmoy96/leetCode-solving/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -74,6 +76,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mrinmoy96/leetCode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mrinmoy96/leetCode-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mrinmoy96/leetCode-solving/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/mrinmoy96/leetCode-solving/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -163,4 +166,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/mrinmoy96/leetCode-solving/tree/master/0783-search-in-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mrinmoy96/leetCode-solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
