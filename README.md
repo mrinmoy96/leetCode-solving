@@ -35,6 +35,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mrinmoy96/leetCode-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mrinmoy96/leetCode-solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrinmoy96/leetCode-solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mrinmoy96/leetCode-solving/tree/master/0496-next-greater-element-i) |
 ## Array
@@ -51,6 +52,7 @@
 | [0078-subsets](https://github.com/mrinmoy96/leetCode-solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mrinmoy96/leetCode-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mrinmoy96/leetCode-solving/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mrinmoy96/leetCode-solving/tree/master/0496-next-greater-element-i) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -148,11 +151,13 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
