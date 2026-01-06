@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mrinmoy96/leetCode-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0027-remove-element) |
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mrinmoy96/leetCode-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Stack
@@ -168,6 +170,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mrinmoy96/leetCode-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mrinmoy96/leetCode-solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
