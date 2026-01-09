@@ -112,6 +112,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrinmoy96/leetCode-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mrinmoy96/leetCode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mrinmoy96/leetCode-solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/mrinmoy96/leetCode-solving/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/mrinmoy96/leetCode-solving/tree/master/0386-lexicographical-numbers) |
 ## Matrix
 |  |
 | ------- |
