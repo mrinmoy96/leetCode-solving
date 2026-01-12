@@ -81,6 +81,7 @@
 | [0014-longest-common-prefix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
+| [1021-remove-outermost-parentheses](https://github.com/mrinmoy96/leetCode-solving/tree/master/1021-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/mrinmoy96/leetCode-solving/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -97,6 +98,7 @@
 | [0155-min-stack](https://github.com/mrinmoy96/leetCode-solving/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mrinmoy96/leetCode-solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mrinmoy96/leetCode-solving/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/mrinmoy96/leetCode-solving/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
