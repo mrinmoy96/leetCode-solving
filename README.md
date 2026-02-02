@@ -38,6 +38,7 @@
 | [0141-linked-list-cycle](https://github.com/mrinmoy96/leetCode-solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrinmoy96/leetCode-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mrinmoy96/leetCode-solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mrinmoy96/leetCode-solving/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mrinmoy96/leetCode-solving/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mrinmoy96/leetCode-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/mrinmoy96/leetCode-solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mrinmoy96/leetCode-solving/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/mrinmoy96/leetCode-solving/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +73,7 @@
 | [0088-merge-sorted-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mrinmoy96/leetCode-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinmoy96/leetCode-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/mrinmoy96/leetCode-solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mrinmoy96/leetCode-solving/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrinmoy96/leetCode-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/mrinmoy96/leetCode-solving/tree/master/0451-sort-characters-by-frequency) |
